@@ -1,0 +1,14 @@
+.banner-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logo {
+  background-color: rgba(173, 177, 220, 0.692);
+  border-radius: 50%;
+}
+
+html,
+body {
+  margin: 20px;
+}
